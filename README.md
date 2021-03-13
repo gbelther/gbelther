@@ -1,6 +1,6 @@
 ### Oii 👋
 
-🔭 I’m currently studyng Civil Engineering; <br>
+🔭 I’m currently studying Civil Engineering; <br>
 🌱 I’m currently learning React, NextJS, Typescript in the Rocketseat Bootcamp
 
 <!--
