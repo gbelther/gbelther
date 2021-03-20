@@ -9,4 +9,4 @@
 
 
 🔭 I’m currently studyng Civil Engineering;
-🌱 I’m currently learning React, NextJS, Typescript in the Rocketseat Bootcamp
+🌱 I’m currently learning React, NextJS, Typescript in the Rocketseat Bootcamp Ignite: ReactJS
