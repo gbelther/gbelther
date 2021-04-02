@@ -4,6 +4,7 @@ As stacks que eu domino:
 - HTML
 - CSS / SCSS / SASS
 - Javascript
+- React
 
 No momento, estou estudando:
 - Typescript
