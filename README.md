@@ -17,3 +17,7 @@
 
 Meu objetivo é dominar estas stacks que eu estou estudando e conseguir um emprego para aplicar esses conhecimentos. Por isso estou aberto a todas as possibilidades que envolvam isso.
 
+📞 contatos:
+- (44) 99801-8508
+- Linkedin: https://www.linkedin.com/in/gabriel-belther-santos-271b24181/
+- Email: belthergabriel@gmail.com
