@@ -8,8 +8,9 @@ As stacks que eu domino:
 
 No momento, estou estudando:
 - Typescript
+- ContextAPI
+- Redux
 - NextJS
-- ChakraUI
 
 Meu objetivo é dominar estas stacks que eu estou estudando e conseguir um emprego para aplicar esses conhecimentos. Por isso estou aberto a todas as possibilidades que envolvem isso.
 
