@@ -15,7 +15,7 @@
 - Redux
 - NextJS
 
-Meu objetivo é dominar estas stacks que eu estou estudando e conseguir um emprego para aplicar esses conhecimentos. Por isso estou aberto a todas as possibilidades que envolvam isso.
+Meu objetivo é dominar estas stacks que eu estou estudando e conseguir uma oportunidade para aplicar esses conhecimentos e aprender outros. Por isso estou aberto a todas as possibilidades que envolvam isso.
 
 📞 contatos:
 - (44) 99801-8508
