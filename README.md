@@ -1,6 +1,6 @@
 🏡 Moro em Maringá-PR (BR) </br>
-👨‍🎓 Sou graduado em Engenharia Civil pela Universidade Estadual de Maringá
-🗣️ No momento meu inglês é intermediário e estou estudando para ser fluente
+👨‍🎓 Sou graduado em Engenharia Civil pela Universidade Estadual de Maringá </br>
+🗣️ No momento meu inglês é intermediário e estou estudando para ser fluente </br>
 🧑‍💼 Sou desenvolvedor Front-end na Team Soft - Tecnologia e Sistemas
 
 💿 Durante a graduação, tive contato com programação e acabei me identificando bastante com a matéria, razão pela qual decidi que seria a minha área de atuação, especificamente em desenvolvimento web. Desde então, tenho estudado por meio de cursos, documentações e artigos para conseguir melhorar cada vez mais minhas habilidades. 
