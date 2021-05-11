@@ -1,6 +1,7 @@
 🏡 Moro em Maringá-PR (BR) </br>
 👨‍🎓 Sou graduado em Engenharia Civil pela Universidade Estadual de Maringá
 🗣️ No momento meu inglês é intermediário e estou estudando para ser fluente
+🧑‍💼 Sou desenvolvedor Front-end na Team Soft - Tecnologia e Sistemas
 
 💿 Durante a graduação, tive contato com programação e acabei me identificando bastante com a matéria, razão pela qual decidi que seria a minha área de atuação, especificamente em desenvolvimento web. Desde então, tenho estudado por meio de cursos, documentações e artigos para conseguir melhorar cada vez mais minhas habilidades. 
 
@@ -16,9 +17,7 @@
 - Redux
 - NextJS
 
-Meu objetivo é dominar estas stacks que eu estou estudando e conseguir uma oportunidade para aplicar esses conhecimentos e aprender outros. Por isso estou aberto a todas as possibilidades que envolvam isso.
-
-📞 contatos:
+📞 Contatos:
 - Fone e WhatsApp: (44) 99801-8508
 - Linkedin: https://www.linkedin.com/in/gabriel-belther-santos-271b24181/
 - Email: belthergabriel@gmail.com
