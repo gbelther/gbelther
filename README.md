@@ -13,6 +13,7 @@
 
 📚 No momento, estou estudando:
 - Typescript
+- Styled-components
 - ContextAPI
 - Redux
 - NextJS
