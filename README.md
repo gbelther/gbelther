@@ -10,12 +10,12 @@
 - CSS / SCSS
 - Javascript
 - React
+- ContextAPI
+- Redux
 
 📚 No momento, estou estudando:
 - Typescript
 - Styled-components
-- ContextAPI
-- Redux
 - NextJS
 
 📞 Contatos:
