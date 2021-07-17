@@ -17,7 +17,7 @@
 - Typescript
 - Styled-components
 - NextJS
-- NodeJS
+- GraphQL
 
 📞 Contatos:
 - Fone e WhatsApp: (44) 99801-8508
