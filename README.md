@@ -8,16 +8,18 @@
 📚 As stacks que eu domino:
 - HTML
 - CSS / SCSS
+- Bootstrap
 - Javascript
+- Typescript
 - React
+- NextJS
 - ContextAPI
 - Redux
 
 📚 No momento, estou estudando:
-- Typescript
 - Styled-components
-- NextJS
 - GraphQL
+- NodeJS
 
 📞 Contatos:
 - Fone e WhatsApp: (44) 99801-8508
