@@ -18,7 +18,8 @@
 
 📚 No momento, estou estudando:
 - Styled-components
-- GraphQL
+- Storybok
+- Jest
 - NodeJS
 
 📞 Contatos:
