@@ -18,7 +18,7 @@
 
 📚 No momento, estou estudando:
 - Styled-components
-- Storybok
+- Storybook
 - Jest
 - NodeJS
 
