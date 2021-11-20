@@ -15,12 +15,11 @@
 - NextJS
 - ContextAPI
 - Redux
+- Styled-components
 
 📚 No momento, estou estudando:
-- Styled-components
-- Storybook
+- React-Native
 - Jest
-- NodeJS
 
 📞 Contatos:
 - Fone e WhatsApp: (44) 99801-8508
