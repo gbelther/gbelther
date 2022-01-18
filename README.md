@@ -22,7 +22,7 @@
 - React-Native
 - NodeJs
 
-📞 Contatos:
-Fone e WhatsApp: (44) 99801-8508
-Github: https://github.com/gbelther
-Email: belthergabriel@gmail.com
+📞 Contatos: </br>
+- Fone e WhatsApp: (44) 99801-8508 </br>
+- Github: https://github.com/gbelther </br>
+- Email: belthergabriel@gmail.com
