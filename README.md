@@ -12,17 +12,19 @@
 - Javascript
 - Typescript
 - React
+- React-Native
 - NextJS
 - ContextAPI
-- Redux
+- Redux / Redux-saga
 - Styled-components
+- Jest / Testing-Library (com TDD)
+- Storybook
 
 📚 No momento, estou estudando:
-- Orientação a Objetos com Java
-- React-Native
-- NodeJs
+- React-native
+- Jest
 
-📞 Contatos: </br>
-- Fone e WhatsApp: (44) 99801-8508 </br>
-- Github: https://github.com/gbelther </br>
-- Email: belthergabriel@gmail.com
+📞 Contatos:
+Fone e WhatsApp: (44) 99801-8508
+Github: https://github.com/gbelther
+Email: belthergabriel@gmail.com
