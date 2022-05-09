@@ -21,7 +21,7 @@ About
 - Jest / Testing-Library (com TDD)
 - Storybook
 
-📞 Contatos:
-Fone e WhatsApp: (44) 99801-8508
-Linkedin: https://www.linkedin.com/in/gabrielbelthersantos/
+📞 Contatos: <br />
+Fone e WhatsApp: (44) 99801-8508 <br />
+Linkedin: https://www.linkedin.com/in/gabrielbelthersantos/<br />
 Email: belthergabriel@gmail.com
