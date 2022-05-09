@@ -1,4 +1,3 @@
-About
 🏡 Moro em Maringá-PR (BR)
 👨‍🎓 Sou graduado em Engenharia Civil pela Universidade Estadual de Maringá
 🗣️ No momento meu inglês é intermediário e estou estudando para ser fluente
