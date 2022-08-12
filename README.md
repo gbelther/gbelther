@@ -2,7 +2,7 @@
 👨‍🎓 Sou graduado em Engenharia Civil pela Universidade Estadual de Maringá <br/>
 👨‍🎓 Estou cursando o curso de Análise e Desenvolvimento de Sistemas pela Unicesumar <br/>
 🗣️ No momento meu inglês é intermediário e estou estudando para ser fluente <br/>
-🧑‍💼 Sou desenvolvedor Front-end e Mobile na TeamSoft - Tecnologia e Sistemas
+🧑‍💼 Sou desenvolvedor Front-end na Onyma Digital.
 
 💿 Durante a graduação, tive contato com programação e acabei me identificando bastante com a área, razão pela qual decidi que seria o meu seguimento de atuação, especificamente em desenvolvimento web. Desde então, tenho estudado por meio de cursos, documentações e artigos para conseguir melhorar cada vez mais minhas habilidades.
 
