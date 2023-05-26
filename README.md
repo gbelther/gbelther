@@ -4,7 +4,7 @@
 🗣️ No momento meu inglês é intermediário e estou estudando para ser fluente <br/>
 🧑‍💼 Sou desenvolvedor Front-end na Onyma Digital.
 
-💿 Durante a graduação, tive contato com programação e acabei me identificando bastante com a área, razão pela qual decidi que seria o meu seguimento de atuação, especificamente em desenvolvimento web. Desde então, tenho estudado por meio de cursos, documentações e artigos para conseguir melhorar cada vez mais minhas habilidades.
+Como desenvolvedor Front-end, meu objetivo é unir minhas habilidades técnicas, preocupação com código limpo e organizado, foco em entregar valor aos clientes e habilidades em trabalhar em equipe para criar produtos web de alta qualidade, escaláveis e que ofereçam a melhor experiência para os usuários. Estou sempre em busca de desafios estimulantes e oportunidades de aprendizado contínuo para impulsionar minha carreira e contribuir para o sucesso da equipe e da empresa.
 
 📚 As stacks que eu domino:
 - HTML
